@@ -2,13 +2,17 @@
 
 Datasets created for the projectcovid19 application and web dashboards for displaying COVID19 pandemic data in JSON.
 
+These datasets are no longer maintained. The brazilian government stopped posting up-to-data data on the pandemic
+in an attempt to hide the gravity of the situation. Because of this, the JHU datasets became incomplete.
+Check out this page to get up-to-date data on the covid19 pandemic in Brazil: 
+
+[https://peixebabel.github.io/COVID-19/](https://peixebabel.github.io/COVID-19/ "Peixe Babel Covid19")
+
 ## Projecting COVID19 pandemic cases
 
 These datasets were created as a result of an attempt to project the confirmed cases of the first
 wave of infection of the COVID19 pandemic across the world. The results of these projections are
-available online in this link:
-
-[https://rora.com.br/#/covid19delta](https://rora.com.br/#/covid19delta "Projection of the COVID19 confirmed cases")
+no longer available online.
 
 Most of the information was obtained form the JHU dataset available in github at <https://github.com/CSSEGISandData/COVID-19>.
 The population list was obtained from the World Bank Data at <https://data.worldbank.org/indicator/SP.POP.TOTL>.
